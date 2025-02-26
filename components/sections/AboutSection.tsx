@@ -46,7 +46,7 @@ export default function AboutSection() {
                     <div className="text-center">
                         <div className="relative w-64 h-64 mx-auto">
                             <Image
-                                src="https://xsgames.co/randomusers/avatar.php?g=male"
+                                src="/images/coordinator.jpg"
                                 alt="Founder"
                                 width={256}
                                 height={256}
