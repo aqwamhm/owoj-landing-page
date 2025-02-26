@@ -1,5 +1,3 @@
-import { FaWhatsapp, FaInstagram, FaFacebook, FaYoutube } from "react-icons/fa";
-
 export default function FooterSection() {
     return (
         <footer className="bg-green-900 text-white py-12">
@@ -11,7 +9,7 @@ export default function FooterSection() {
                         </h3>
                         <p className="text-gray-300">
                             Komunitas untuk meningkatkan interaksi dengan
-                            Al-Qur'an melalui pembacaan rutin 1 juz setiap
+                            Al-Qur&#39;an melalui pembacaan rutin 1 juz setiap
                             pekan.
                         </p>
                     </div>

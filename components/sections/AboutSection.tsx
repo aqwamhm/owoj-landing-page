@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { FaWhatsapp, FaInstagram, FaFacebook, FaYoutube } from "react-icons/fa";
+import { FaWhatsapp } from "react-icons/fa";
 
 export default function AboutSection() {
     return (
@@ -13,14 +13,14 @@ export default function AboutSection() {
                         <p>
                             One Week One Juz (OWOJ) adalah gerakan yang
                             bertujuan untuk meningkatkan interaksi umat muslim
-                            dengan Al-Qur'an melalui pembacaan rutin 1 juz
+                            dengan Al-Qur&#39;an melalui pembacaan rutin 1 juz
                             setiap pekan.
                         </p>
                         <p>
                             Dengan sistem kelompok yang terstruktur, OWOJ
                             membantu peserta untuk konsisten dalam membaca dan
-                            memahami Al-Qur'an, serta membangun komunitas yang
-                            saling mendukung.
+                            memahami Al-Qur&#39;an, serta membangun komunitas
+                            yang saling mendukung.
                         </p>
                         <div className="mt-6 space-y-4">
                             <div className="flex items-center space-x-4">
